@@ -1,0 +1,15 @@
+# PDFs del libro: contenido con copyright de Editorial UOC, no se distribuyen en el repo
+*.pdf
+
+# Copias de trabajo obsoletas / mal etiquetadas
+_archivo_obsoleto/
+
+# Artefactos de R / Jupyter
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
