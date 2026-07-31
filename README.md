@@ -28,10 +28,8 @@ con copyright vigente:
 > Liviano Solís, D. & Pujol Jover, M. (2017). *Análisis cuantitativo con R:
 > matemáticas, estadística y econometría*. Editorial UOC. ISBN 978-84-9116-804-1.
 
-Lo que contiene este repositorio es código R original ejecutable y explicaciones
-propias, escritas a partir del estudio del libro — no una reproducción de su
-contenido. Si necesitas el libro, puedes adquirirlo directamente en
-[Editorial UOC](https://www.editorialuoc.com).
+Lo que contiene este repositorio es código R  ejecutable y explicaciones
+propias, escritas a partir del estudio del libro 
 
 ## Cómo ejecutar
 
