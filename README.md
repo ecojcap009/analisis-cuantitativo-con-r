@@ -3,8 +3,7 @@
 Cuadernos de Jupyter (kernel R) con implementaciones ejecutables de los conceptos
 tratados en cada capítulo del libro *Análisis cuantitativo con R: matemáticas,
 estadística y econometría*. Son apuntes de estudio propios: código R comentado,
-explicaciones en mis propias palabras y verificación de resultados, no una copia
-del texto del libro.
+explicaciones en mis propias palabras y verificación de resultados.
 
 ## Contenido
 
